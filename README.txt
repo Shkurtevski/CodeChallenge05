@@ -1,0 +1,3 @@
+# CodeChallenge05
+
+This beginner-friendly Github repository is a great starting point for those who want to learn how to create a responsive webpage. Using HTML and SCSS, this repository provides a clear example of how to create a webpage with a header section that includes a dimmed background image, a navigation bar, and content. The repository also includes two additional sections, one with an image grid and another with features and services. This repository is an excellent resource for those who are new to web development and want to get started with creating their own webpages.
